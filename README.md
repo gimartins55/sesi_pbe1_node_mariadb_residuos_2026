@@ -1,6 +1,6 @@
 ## Diagrama de Classes
 
-![Diagrama de Classes](./backend_residuos/docs/der_residuos.png)
+![Diagrama de Classes](./docs/der_residuos.png)
 
 ## Funcionalidades
 
@@ -13,11 +13,11 @@
 
 ### Cadastro de usuário
 
-![Cadastro de usuário](./backend_residuos/docs/cadastrar_usuarios.png)
+![Cadastro de usuário](./docs/cadastrar_usuarios.png)
 
 ### Listagem de usuários
 
-![Listagem de usuários](./backend_residuos/docs/listar_usuarios.png)
+![Listagem de usuários](./docs/listar_usuarios.png)
 
 ### Alteração de usuário
 
